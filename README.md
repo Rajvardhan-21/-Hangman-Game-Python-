@@ -1,9 +1,11 @@
 # -Hangman-Game-Python-
 Developed a console-based Hangman Game .The game allows players to guess a randomly selected word letter by letter with a limited number of attempts.
-## 📌 Overview
 
+## 📌 Overview
 Built as an individual project during Semester 1 at Vidyalankar School of Information Technology (VSIT), this terminal game reinforces core programming concepts and structured problem-solving through interactive gameplay[cite: 6].
+
 Colab Link 🐍 :https://colab.research.google.com/drive/1BEeH9cQp8LrCyY-saO2OM6pdVnFeaWUi?usp=sharing
+
 ## ✨ Features & Concepts Applied
 
 | Category | Details |
